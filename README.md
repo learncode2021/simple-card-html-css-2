@@ -13,4 +13,4 @@ simple-card-html-css 2
 
 
 
-<a href="$"><img src="https://img.gem-flash.com/images/57738244406223777368.jpg" border="0" alt="GEM-FLASH.COM Multi Uploader" /></a>
+<a href="#"><img src="https://img.gem-flash.com/images/57738244406223777368.jpg" border="0" alt="GEM-FLASH.COM Multi Uploader" /></a>
